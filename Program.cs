@@ -9,7 +9,7 @@ PrnSep();
 if (args.Contains("-h"))
 {
     WriteLine(
-@"Enter the name of the city to the current weather conditions!
+@"Enter the name of the city for the current weather conditions!
 ex. 
 - NewYork
 - New York
