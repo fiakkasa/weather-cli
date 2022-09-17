@@ -34,7 +34,7 @@ dotnet tool uninstall weather-cli --global
 ```bash
 # Help
 dotnet-weather -h
-dotnet-weather -h
+dotnet weather -h
 # Gets the weather!
 dotnet-weather New York
 dotnet weather New York, NY
